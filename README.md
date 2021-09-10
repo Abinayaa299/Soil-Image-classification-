@@ -9,7 +9,7 @@
 * [Technologies](#technologies)
 
 ## Introduction
-This project inputs soil images from the user and states the type of the soil as output. SVM and CNN architectures like LeNet, AlexNet, VGG 16, ResNet are used for soil image classification and evaluated the accuracy of each of the classifiers.
+This project inputs soil images from the user and states the type of the soil as output. SVM and CNN architectures like LeNet, AlexNet, VGG 16 are used for soil image classification and evaluated the accuracy of each of the classifiers.
 The reason for their performance has been analysed and presented.
 
 ## Dataset description
